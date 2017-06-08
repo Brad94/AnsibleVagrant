@@ -1,0 +1,1 @@
+{"virtualbox":{"/opt/vagrant_data":{"guestpath":"/opt/vagrant_data","hostpath":"C:/Users/Administrator/Desktop/AnsibleVagrant/shared","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Administrator/Desktop/AnsibleVagrant","disabled":false,"__vagrantfile":true}}}
